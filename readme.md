@@ -1,7 +1,4 @@
 #Hello-World-GitHub
 
-Hello World!
-
-123
-
-Hello, I'm Kelvin at CUHK!
+Hello! I'm WAT Tsz Ho!
+My student Number is 1155175710
